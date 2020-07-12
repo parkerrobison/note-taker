@@ -17,7 +17,7 @@
 
   ## Installation
   
-  No need to install the project. It is available at vast-citadel-37246.herokuapp.com
+  No need to install the project. It is available at https://vast-citadel-37246.herokuapp.com/
   
   ## Usage 
 
