@@ -1,9 +1,1 @@
-{
-    "notes": [
-    {"title":"Test Title","text":"Test text", "id": "test_id"},
-    {
-    "title": "Start project", 
-    "text": "Start by setting up the backend for project 11",
-    "id": "1"
-    }
-]}
+[{"title":"My first note","text":"There ","id":1},{"title":"#3","text":"three","id":3},{"title":"#2","text":"2","id":4}]
